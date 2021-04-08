@@ -1,0 +1,5 @@
+Cable: https://www.mouser.com/ProductDetail/906-100R6-305B
+Socket: https://www.mouser.com/ProductDetail/30310-6002HB
+Molex: https://www.mouser.com/ProductDetail/538-52207-0633
+
+
