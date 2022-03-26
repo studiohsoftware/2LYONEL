@@ -197,8 +197,8 @@
 <text x="17.272" y="3.302" size="1.016" layer="21" font="vector" ratio="12" rot="R90" align="center">KEY</text>
 <text x="8.128" y="7.112" size="1.016" layer="21" font="vector" ratio="12" rot="R90" align="center">1</text>
 <text x="17.272" y="8.89" size="1.016" layer="21" font="vector" ratio="12" rot="R90" align="center">1</text>
-<text x="3.81" y="-5.588" size="1.27" layer="25" font="vector" ratio="12">STUDIOHSOFTWARE.COM</text>
-<text x="14.478" y="11.938" size="1.27" layer="21" font="vector" ratio="12" rot="R180" align="center">LYONEL'S DIALECTIC</text>
+<text x="24.384" y="-5.588" size="1.27" layer="26" font="vector" ratio="12" rot="MR0">STUDIOHSOFTWARE.COM</text>
+<text x="14.478" y="11.938" size="1.27" layer="26" font="vector" ratio="12" rot="MR180" align="center">LYONEL'S DIALECTIC</text>
 </plain>
 <libraries>
 <library name="studio_h">
@@ -525,7 +525,7 @@ einem neuen Namen ab.</description>
 <attribute name="Z_SMT" value="Y" x="5.08" y="4.064" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="52207-0633" x="5.08" y="4.064" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="Z_DIGIKEY" value="WM10938CT-ND" x="5.08" y="4.064" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="2.905" y="-0.411" size="1.27" layer="25" font="vector" ratio="12" rot="R90"/>
+<attribute name="NAME" x="1.635" y="-0.411" size="1.27" layer="25" font="vector" ratio="12" rot="R90"/>
 <attribute name="VALUE" x="6.28" y="-0.286" size="1.27" layer="27" font="vector" ratio="12" rot="R90"/>
 </element>
 <element name="MASTER" library="studio_h" package="MA05-2" value="" x="20.828" y="3.556" smashed="yes" rot="R270">
@@ -533,7 +533,7 @@ einem neuen Namen ab.</description>
 <attribute name="MPN" value="4-146251-0" x="20.828" y="3.556" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MF" value="TE CONNECTIVITY" x="20.828" y="3.556" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="Z_DIGIKEY" value="A117616-ND" x="20.828" y="3.556" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="23.749" y="9.906" size="1.27" layer="25" ratio="12" rot="R270"/>
+<attribute name="NAME" x="26.035" y="9.906" size="1.27" layer="25" ratio="12" rot="R270"/>
 <attribute name="VALUE" x="16.637" y="3.556" size="1.27" layer="27" ratio="10" rot="R270"/>
 </element>
 </elements>
