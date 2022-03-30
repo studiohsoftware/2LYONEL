@@ -198,7 +198,7 @@
 <text x="8.128" y="7.112" size="1.016" layer="21" font="vector" ratio="12" rot="R90" align="center">1</text>
 <text x="17.272" y="8.89" size="1.016" layer="21" font="vector" ratio="12" rot="R90" align="center">1</text>
 <text x="24.384" y="-5.588" size="1.27" layer="26" font="vector" ratio="12" rot="MR0">STUDIOHSOFTWARE.COM</text>
-<text x="14.478" y="11.938" size="1.27" layer="26" font="vector" ratio="12" rot="MR180" align="center">LYONEL'S DIALECTIC</text>
+<text x="13.716" y="11.938" size="1.27" layer="26" font="vector" ratio="12" rot="MR180" align="center">LYONEL'S DIALECTIC</text>
 </plain>
 <libraries>
 <library name="studio_h">
